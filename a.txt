@@ -1,2 +1,2 @@
-This is file a.
-This is a new line in file a.
+This is EDITED file a.
+This is a new line in EDITED file a.
